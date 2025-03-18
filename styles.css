@@ -1,0 +1,57 @@
+body{
+    height: 2000px;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 50px 10px 30px 10px;
+    background-color: greenyellow;
+    border: dashed 5px darkblue;
+    color: rgb(52, 21, 164);
+    border-radius: 5%;
+    font-weight: 800;
+    font-size: 2em;
+}
+
+button:hover{
+    background-color: green;
+    color: aquamarine;
+    border: dashed 5px aquamarine;
+}
+
+
+.highlight{
+    font-size: 3em;
+    color: red;
+    font-weight:400;
+    text-decoration: line-through;
+   
+}
+
+.anotherclass{
+    color: blue;
+}
+
+.fSeven{
+    font-size: 3em;
+}
+#thisIsAnExampleID{
+    background-color: coral;
+}
+
+.relative{
+    position: relative;
+    
+    left: 350px;
+    top: 350px;
+    
+}
+
+.green{
+    color: green;
+}
+
+.fixed{
+    position: fixed;
+    left: 350px;
+}
